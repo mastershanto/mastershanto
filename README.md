@@ -1,6 +1,8 @@
 Hi there 👋
-I am Ajijul Hoque (Shanto). Currently, I am working as a Mobile Apps Developer. I have 1+ years of experience working with local clients.
 
+I am Ajijul Hoque (Shanto). Currently, 
+I am working as a Mobile Apps Developer. 
+I have 1+ years of experience working with local clients.
 Besides, I am on my personal project "Construction Calculator".
 
 ✉️ mastershanto@gmail.com
