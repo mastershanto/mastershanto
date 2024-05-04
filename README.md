@@ -17,9 +17,9 @@ Skills I have
 
 * Database: MySql, Postagre SQL, SQLite, Firebase
 
-* State-Management: GetX
+* State-Management: GetX, Bloc
 
-* Sound idea on REST-API, MVC Architecture
+* Sound idea on REST-API, MVC, MVVM Architecture
 
 * Design Tools: MS Powerpoint, Photoshop, Canva, Figma
 
