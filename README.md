@@ -7,14 +7,21 @@ Besides, I am on my personal project "Construction Calculator".
 
         
 Skills I have
-Languages: Dart, python,vba
-Frameworks: Flutter
-Library: Pandas
-Database: MySql, Postagre SQL, SQLite, Firebase
-State-Management: GetX
-Sound idea on REST-API, MVC Architecture
-Design Tools: MS Powerpoint, Photoshop, Canva, Figma
-Proper knowledge of Git & GitHub
+* Languages: Dart, python,vba
+
+* Frameworks: Flutter
+
+* Library: Pandas
+
+* Database: MySql, Postagre SQL, SQLite, Firebase
+
+* State-Management: GetX
+
+* Sound idea on REST-API, MVC Architecture
+
+* Design Tools: MS Powerpoint, Photoshop, Canva, Figma
+
+* Proper knowledge of Git & GitHub
 
                                          
                                          
