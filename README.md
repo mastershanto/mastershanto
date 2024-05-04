@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi there 👋
+I am Ajijul Hoque (Shanto). Currently, I am working as a Mobile Apps Developer. I have 1+ years of experience working with local clients.
 
-<!--
-**mastershanto/mastershanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Besides, I am on my personal project "Construction Calculator".
 
-Here are some ideas to get you started:
+✉️ mastershanto@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        
+Skills I have
+Languages: Dart, python,vba
+Frameworks: Flutter
+Library: Pandas
+Database: MySql, Postagre SQL, SQLite, Firebase
+State-Management: GetX
+Sound idea on REST-API, MVC Architecture
+Design Tools: MS Powerpoint, Photoshop, Canva, Figma
+Proper knowledge of Git & GitHub
+
+                                         
+                                         
+My Stats
+Top Langs
