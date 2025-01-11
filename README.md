@@ -3,7 +3,7 @@ Hi there 👋
 I am Ajijul Hoque (Shanto). Currently, 
 I am working as a Mobile Apps Developer. 
 I have 1+ years of experience working with local clients.
-Besides, I am on my personal project "Construction Calculator".
+Besides, I am working on my private project "Civil Engineering Calculations".
 
 ✉️ mastershanto@gmail.com
 
