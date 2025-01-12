@@ -21,7 +21,7 @@ Skills I have
 
 * Sound idea on REST-API, MVC, MVVM Architecture
 
-* Design Tools: MS Powerpoint, Photoshop, Canva, Figma
+* Design Tools:  Figma, MS Excel, MS Powerpoint, Photoshop, Canva
 
 * Proper knowledge of Git & GitHub
 
