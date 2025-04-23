@@ -5,7 +5,9 @@ I am working at "Softvance It Limited" as a Mobile Apps Developer.
 I have 1+ years of experience working with local clients.
 Besides, I am working on my private project "Civil Engineering Calculations".
 
+✉️ shanto.coder@gmail.com
 ✉️ mastershanto@gmail.com
+
 
         
 Skills I have
