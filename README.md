@@ -1,7 +1,7 @@
 Hi there 👋
 
 I am Ajijul Hoque (Shanto). Currently, 
-I am working as a Mobile Apps Developer. 
+I am working at "Softvance It Limited" as a Mobile Apps Developer. 
 I have 1+ years of experience working with local clients.
 Besides, I am working on my private project "Civil Engineering Calculations".
 
@@ -15,9 +15,9 @@ Skills I have
 
 * Library: Pandas
 
-* Database: MySql, Postagre SQL, SQLite, Firebase
+* Database: SharedPreferences, MySql, Postagre SQL, SQLite, Firebase
 
-* State-Management: GetX, Bloc
+* State-Management: GetX, Provider, Bloc
 
 * Sound idea on REST-API, MVC, MVVM Architecture
 
