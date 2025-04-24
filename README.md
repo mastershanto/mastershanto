@@ -2,7 +2,7 @@ Hi there 👋
 
 I am Ajijul Hoque (Shanto). Currently, 
 I am working at "Softvance It Limited" as a Mobile Apps Developer. 
-I have 1+ years of experience working with local clients.
+I have 1+ years of experience working with local & international clients.
 Besides, I am working on my private project "Civil Engineering Calculations".
 
 ✉️ shanto.coder@gmail.com
