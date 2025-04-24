@@ -17,7 +17,7 @@ Skills I have
 
 * Library: Pandas
 
-* Database: SharedPreferences, MySql, Postagre SQL, SQLite, Firebase
+* Database: Firebase, SharedPreferences, SQLite, MySql, Postagre SQL  
 
 * State-Management: GetX, Provider, Bloc
 
@@ -27,7 +27,3 @@ Skills I have
 
 * Proper knowledge of Git & GitHub
 
-                                         
-                                         
-My Stats
-Top Langs
